@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/transactions-app/static/css/main.0c831030.css",
+    "main.js": "/transactions-app/static/js/main.cbb6db04.js",
+    "index.html": "/transactions-app/index.html",
+    "main.0c831030.css.map": "/transactions-app/static/css/main.0c831030.css.map",
+    "main.cbb6db04.js.map": "/transactions-app/static/js/main.cbb6db04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c831030.css",
+    "static/js/main.cbb6db04.js"
+  ]
+}
